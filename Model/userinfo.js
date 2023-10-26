@@ -1,9 +1,8 @@
-module.exports[
+module.exports = [
     {
-       id :1,
-       name:'krishnadas',
-       email: 'krishnadas10.official@gmail.com'
-
+        id:1,
+        name:"krishnadas",
+        email:"krishnadas@gmail.com"
     }
 ]
 
